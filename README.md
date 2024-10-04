@@ -29,3 +29,16 @@ Make sure you have the following installed on your machine:
    git clone https://github.com/FerTorron/country-app.git
    cd country-app
    ```
+
+2. **Initialize backend**
+   ```bash
+   cd backend
+   npm run dev
+   ```
+
+3. **Initialize frontend**
+
+   ```bash
+   cd frontend
+   npm run dev
+   ```
